@@ -28,7 +28,8 @@ He/Him
 ---
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/amitkumar](https://www.linkedin.com/in/amitkumar444/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar444/)
+
 ---
 
 🌟 _"Keep coding, keep learning!"_ 🌟
