@@ -1,35 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Amit Kumar
 
-Welcome to my GitHub profile! I'm **Amit Kumar**, a passionate learner and developer, currently diving into the world of **Python**, **C#**, and **full-stack web development** through **FreeCodeCamp**.
-
----
-
-## 🛠️ Tech Stack:
-### **Programming Languages**
-![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
-
-### **Tools**
-![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+I am a developer and technical educator with a primary focus on **Python** and logic-based problem solving. 
 
 ---
 
-## 😄 Pronouns:
-He/Him
+### 🛠️ Professional Experience
+I am currently a **Python Instructor**  at **Study With V.I.**, where I lead programming classes, deliver technical lectures, and design comprehensive assessments to evaluate student logic and progress.
+
+### 📈 Current Focus
+* Building  projects.
+* Refining educational frameworks for teaching programming fundamentals.
+* Contributing to open-source projects and expanding my professional portfolio.
 
 ---
 
-## 📊 GitHub Stats:
+### 💻 Tech Stack
+* **Primary Language:** Python
+* **Supporting Languages:** Java, C++, C#
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitKumar2636&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar2636&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me:
+### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar444/)
 
----
 
-🌟 _"Keep coding, keep learning!"_ 🌟
+
