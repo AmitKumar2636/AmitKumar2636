@@ -15,7 +15,7 @@ I am currently a **Python Instructor**  at **Study With V.I.**, where I lead pro
 ---
 
 ### 💻 Tech Stack
-* **Primary Language:** Python
+* **Primary Language:** Python and Java Script
 * **Supporting Languages:** Java, C++, C#
 * **Tools:** Git, GitHub, VS Code
 
